@@ -5,5 +5,6 @@ Check out the live version of the project [here](https://soumens7.github.io/TinD
 
 ## App preview
 
-![Uploading Screenshot 2025-01-26 at 1.53.41 PM.png…]()
+<img width="1512" alt="Screenshot 2025-01-27 at 12 43 41 PM" src="https://github.com/user-attachments/assets/93a75ff6-a171-4765-8a1c-27078f4614e1" />
+
 
